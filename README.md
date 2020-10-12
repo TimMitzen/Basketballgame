@@ -1,4 +1,3 @@
 # Basketballgame
-To run git clone 
-h is for hit
+run git clone 
 p is for taking a pitch
