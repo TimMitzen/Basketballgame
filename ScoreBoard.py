@@ -1,4 +1,4 @@
-class ScoreBoard:
+class ScoreBoard:#keeps track of the outs, hit, balls , inning and runs
 
     strike_count =[]
     hit_count = []
