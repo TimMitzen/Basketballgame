@@ -9,6 +9,8 @@ follow instructions on the screen, h is for a hit, p is for taking a pitch, s to
 
 Game goes up to 5 runs or 2 inning whatever one comes first
 
+One of my first games in Python
+
 # Todo
 
 Clean up the code
