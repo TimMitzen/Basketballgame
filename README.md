@@ -1,5 +1,5 @@
 # Baseball game
-run git clone https://github.com/TimMitzen/Basketballgame.git
+run git clone https://github.com/TimMitzen/baseballgame.git
 
 open terminal and cd into whatever folder you cloned above
 
